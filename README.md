@@ -1,6 +1,6 @@
 # Java Textbook Programming Solutions
 
-This repository contains a large collection of Java programming exercises and projects, believed to be solutions for the textbook *"Java Software Solutions"* (likely by Lewis & Loftus). The solutions are organized into packages by topic and cover a wide range of fundamental computer science concepts.
+This repository contains a large collection of Java programming exercises and projects, believed to be solutions for the textbook *"Java Software Solutions"* Lewis & Loftus. The solutions are organized into packages by topic and cover a wide range of fundamental computer science concepts.
 
 The original problem descriptions can be found in the `Java Solusions/exercises.pdf` file.
 
